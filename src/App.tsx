@@ -34,7 +34,7 @@ export default function Gallery() {
     <>
       <Container maxWidth="sm">
         <div><h1>10 Things that Require Zero Talent</h1></div>
-        <p> by John Mark Salas - C-PEITEL3</p>
+        <p> by John Rein Vinuya</p>
         <Card sx={{ maxWidth: 500 }}>
           <CardMedia
             component="img"
